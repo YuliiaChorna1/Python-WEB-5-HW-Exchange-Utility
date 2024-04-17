@@ -1,4 +1,3 @@
-I'd be glad to create the README text for the currency rate console utility:
 
 **Currency Rate Console Utility**
 
@@ -70,5 +69,3 @@ JPY        |  0.26  |  0.27
 
 - You can modify the `base_url` in the `CurrencyRateAPI` class to use a different currency exchange rate API.
 - The `pretty_print_result` function can be adjusted to customize the table formatting.
-
-I hope this README text provides a clear and comprehensive guide to using the currency rate console utility!
